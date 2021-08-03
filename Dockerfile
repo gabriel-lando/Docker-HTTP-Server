@@ -1,5 +1,5 @@
 # Use Python 3
-FROM python:slim-buster
+FROM python:slim
 
 # Define port number
 ENV PORT=7000
